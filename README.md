@@ -5,7 +5,7 @@
 3. Ищем проект `avaCore5_project-group-3_telegram-bot`. Нажимаем `Ok`
 
 *Или*
-1. Идем в репозиторий по ссылке https://github.com/Vadim-Havrylitse/JavaCore5_project-group-3_telegram-bot.
+1. Идем в репозиторий по ссылке hhttps://github.com/ElnurKasimov/telegram_bot_currancy_rates
 2. Нажимаем кнопку `Code`
 3. Выбираем `Https` (или `SSH`, если вы добавляли в Гитхам свой ключ ССШ).
 4. Копируем ссылку.
